@@ -79,17 +79,6 @@ The model was trained using:
 - Backpropagation
 - Mini-batch Gradient Descent
 
----
-
-## Results
-
-The trained model successfully classifies CIFAR-10 images with good accuracy on the test dataset.
-
-Example metrics:
-- Training Accuracy: XX%
-- Test Accuracy: XX%
-
-(Update these values with your actual results.)
 
 ---
 
@@ -110,12 +99,14 @@ Example:
 ## Project Structure
 
 ```text
-cifar10-neural-network/
+Project_CIFAR10/
 │
-├── cifar10_neural_network.ipynb
-├── README.md
-├── requirements.txt
-└── images/
+├── Padma_CIFAR10.ipynb   # Main notebook
+├── README.md             # Project documentation
+├── requirements.txt      # Dependencies
+```
+--- 
+
 ## Installation
 
 Clone the repository:
